@@ -61,6 +61,8 @@ each point is tested to see whether it's in the circle or not:
 [import:15-17, lang:"swift"](code/swift/monte_carlo.swift)
 {% sample lang="py" %}
 [import:5-7, lang:"python"](code/python/monte_carlo.py)
+{% sample lang="matlab" %}
+[import:28-31, lang:"matlab"](code/matlab/montecarlo.m)
 {% endmethod %}
 
 If it's in the circle, we increase an internal count by one, and in the end,
@@ -116,6 +118,8 @@ Feel free to submit your version via pull request, and thanks for reading!
 [import, lang:"swift"](code/swift/monte_carlo.swift)
 {% sample lang="py" %}
 [import, lang:"python"](code/python/monte_carlo.py)
+{% sample lang="matlab" %}
+[import, lang:"matlab"](code/matlab/montecarlo.m)
 {% endmethod %}
 
 
